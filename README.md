@@ -1,4 +1,4 @@
-# Hi, ich bin YOURUSERNAME 👋
+# Hi, ich bin Lotus 👋
 Willkommen in meiner kleinen Ecke des Internets — Hello World ✨
 
 ---
