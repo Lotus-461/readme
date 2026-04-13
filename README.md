@@ -28,24 +28,9 @@ echo "Hello, world — willkommen bei Lotus-461!"
 
 ---
 
-## ✨ Showcase
-> Ein visueller Blick auf Aktivitäten & Sprachen.
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lotus-461&layout=compact&theme=dracula)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lotus-461&show_icons=true&theme=dracula)
-
----
-
 ## 📫 Kontakt
 - GitHub: https://github.com/Lotus-461
 - Mail: MaV210Lotus@proton.me
-- Twitter / Mastodon / Website: (füge hier Links hinzu)
-
----
-
-## ✨ Kleiner Style-Hack
-Füge ein animiertes GIF oder ein minimalistisches SVG als Header hinzu, um das Profil noch ästhetischer zu machen.
-
 ---
 
 Made with ❤ and code • Thanks for stopping by 👀
